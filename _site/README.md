@@ -1,0 +1,3 @@
+# Cogitare
+
+I write, occasionally.
