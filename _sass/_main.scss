@@ -76,7 +76,7 @@ hr {
 header {
 	flex-basis:10rem;
 	flex-grow:1;
-	position:fixed;
+	position: static;
 	top:5rem;
 	left:9rem;
 }
@@ -100,6 +100,7 @@ header a.active {
 
 header {
 	padding:1rem;
+	margin: 1rem;
 }
 
 section {
@@ -175,9 +176,9 @@ strong, b {
 main {
 	display:flex;
 	flex-wrap:wrap;
-	max-width:60rem;
-	margin: 2rem auto;
-	padding:4rem;
+	max-width:65rem;
+	margin: 1rem 1rem 1rem 1rem;
+	padding:3rem;
 }
 
 
