@@ -2,19 +2,6 @@
 layout: default
 ---
 
-<script>
-  let password = "cringerohan";
-  (function passcodeprotect() {
-      let passcode = prompt("enter the key");
-      while (passcode !== password) {
-          alert("incorrect");
-          return passcodeprotect();
-      }
-  }());
-  document.getElementById("container")
-      .style.display = "block";
-</script>
-
 <section class="post">
   <h2>{{ page.title }}</h2>
   {{ content }}
