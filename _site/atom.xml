@@ -4,7 +4,7 @@
  <title>cogitare</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-03-16T13:46:05+00:00</updated>
+ <updated>2025-03-16T14:16:21+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Rohan</name>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Children think in first principles</title>
-   <link href="http://localhost:4000/2025/03/12/apriori"/>
-   <updated>2025-03-12T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2025/03/12/apriori</id>
+   <link href="http://localhost:4000/2025/03/16/apriori"/>
+   <updated>2025-03-16T00:00:00+00:00</updated>
+   <id>http://localhost:4000/2025/03/16/apriori</id>
    <content type="html">&lt;h4 id=&quot;background&quot;&gt;Background&lt;/h4&gt;
 &lt;p&gt;The other day when I was reading an article on reasoning from first principles, I came across this statement which I found interesting-&lt;/p&gt;
 &lt;blockquote&gt;
@@ -29,7 +29,15 @@
 &lt;p&gt;A first principle is a statement which cannot be derived from another statement, meaning an absolute truth which cannot be broken down further; the mathematical equivalent being postulates. Reasoning by first principles is basically a problem solving methodology that forces a person to start from absolute zero, not relying on any assumptions, analogies and experiences. In simple terms, questioning everything and getting to the root of the problem.&lt;/p&gt;
 
 &lt;p&gt;I remember pestering my parents by asking them questions about anything and everything that caught my attention. I had a phase when I was about five where all I did was ask non-stop &lt;em&gt;whys&lt;/em&gt; and &lt;em&gt;hows&lt;/em&gt; for every little thing. This might be a naive example of first principles thinking, but it still (kind of) proves that I wanted to get to the bottom of something. 
-While you don’t have to pester your friends and family with a barrage of &lt;em&gt;whys&lt;/em&gt; as an adult, I think there are a few important takeaways from this inquisitive nature of children. Firstly, the more obvious one being the need to understand purpose of doing something, or something existing. Secondly, intellectual humility. I believe this applies more for older individuals, as young children have no fear of looking ‘stupid’ in admitting they do not know something (as evidenced by their bombardment of a hundred &lt;em&gt;whys&lt;/em&gt; per day). But this way of approaching things like a child gives a greater mastery over whatever problem you are trying to tackle, considering the fact that you have a clear picture on the fundamentals, and forces the mind to think logically.&lt;/p&gt;
+While you don’t have to pester your friends and family with a barrage of &lt;em&gt;whys&lt;/em&gt; as an adult, I think there are a few important takeaways from this inquisitive nature of children. Firstly, the more obvious one being the need to understand purpose of doing something, or something existing. These are six type of Socratic Questions that might be useful - 
+    - What am I trying to solve?
+    - Is this assumption always true?
+    - What evidence do I have?
+    - Are there alternative views?
+    - What are the consequences?
+    - What is the point of the question?&lt;/p&gt;
+
+&lt;p&gt;Secondly, intellectual humility. I believe this applies more for older individuals, as young children have no fear of looking ‘stupid’ in admitting they do not know something (as evidenced by their bombardment of a hundred &lt;em&gt;whys&lt;/em&gt; per day). But this way of approaching things like a child gives a greater mastery over the problem you are trying to tackle, considering the fact that you have a clear view on the fundamentals, and forces the mind to think logically.&lt;/p&gt;
 
 &lt;p&gt;One situation where first principles thinking was taught was in high school mathematics. The proofs we had to deal with in Euclidian Geometry is a good example of utilising the first principles thinking, where we were only given Euclid’s postulates and axioms. I remember I was pretty decent at high school math, and found the theorems very interesting to prove using just the foundations (first principles). Just as there are multiple ways to solve the same math question, the idea of breaking down a problem into a set of the tiniest rules possible also gives way to solve it using more than one method or approach, introducing fresh perspectives, rather than fixating on old experiences which serve as a limiter in this situation. This also leads to the discussion of experience hindering innovation which I will touch upon in the next section.&lt;/p&gt;
 
